@@ -12,5 +12,6 @@
 ## Visualização do resultado 👀
 - Para a visualização de como ficou este projeto, fiz uma gravação de tela mostrando as páginas deste site e demonstrando o funcionamento do formulário que foi criado na página de contato. Para acessar o vídeo clique no link abaixo e baixe o arquivo através do "view raw"!!
 
-
 - ![Demonstração de funcionamento: Site HTML+CSS](https://github.com/guiluzz/SiteHTML-CSS/blob/main/Assets/Receitas%20para%20todo%20tempo.mp4)
+
+https://github.com/guiluzz/SiteHTML-CSS/assets/89231116/4604fd92-739f-4b05-87f5-81be2e241c3a
